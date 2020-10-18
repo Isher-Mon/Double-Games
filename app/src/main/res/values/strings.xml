@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DoubleGames</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="ob">Первыми ходят:</string>
+    <string name="textview">TextView</string>
+    <string name="NBD">Заготовить кости</string>
+    <string name="D">Кости на двоих</string>
+    <string name="BKN">Начать чертить поле</string>
+    <string name="KN">Крестики нолики</string>
+    <string name="Mane" />
+    <string name="_0">0</string>
+    <string name="c">СЧЕТ:</string>
+    <string name="_1">1</string>
+    <string name="em">Окончить Ход</string>
+    <string name="r">Бросить</string>
+    <string name="Ruls"> Узнать Правила</string>
+    <string name="Und"> Понятно</string>
+    <string name="KNR">В игре кости участвуют два игрока.
+    Каждый из них может в нчале хода может бросить их все , а потом перебросить их любое количество.
+    Игра ведется до момента пока один из игркоков не наберет кол-во очков равное или привышающее 1000.
+    Получение очков в игре идет за счет комбинаций кубиков или большого количества одно наменальных.
+    Есть стандартные комбинации(Они вычисляются по формуле зависящей от их количества):
+    N - наменал кости, \n K = каэфицент размера \n
+    3. N * K \n
+    4. N * K * 2 \n
+    5. N * K * 10 \n
+    Исключения: \n
+    Три единицы: 100 \n
+     Четыре единицы: 200 \n
+    Пять единиц: 1000 \n
+    Сеты: \n
+        1 . 2 . 3 . 4 . 5 = 150\n
+        2 . 3 . 4 . 5 . 6 = 250</string>>
+
+</resources>
